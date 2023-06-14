@@ -231,7 +231,7 @@
                   data-aos="fade-right"
                   data-aos-delay="600"
                   data-aos-duration="1000"
-                  style="width: 75%"
+                  style="width: 85%"
                 ></div>
               </div>
             </div>
